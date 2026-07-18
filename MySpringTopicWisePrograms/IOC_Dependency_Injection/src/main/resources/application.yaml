@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: IOC_Dependency_Injection
